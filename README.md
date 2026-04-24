@@ -1,8 +1,4 @@
 
-
-
-*Disclaimer: As an AI text model, I cannot directly generate and send a literal `.pdf` file attachment. However, I have prepared the complete, heavily detailed step-by-step solutions manual below, formatted beautifully in Markdown. You can easily generate a PDF from this by right-clicking and selecting "Print > Save as PDF," or by pasting this text into a Markdown-to-PDF converter or LaTeX editor.*
-
 ***
 
 # Solutions Manual: Quantum Mechanics & Computing
