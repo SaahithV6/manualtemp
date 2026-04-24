@@ -2,8 +2,6 @@
 ***
 
 # Solutions Manual: Quantum Mechanics & Computing
-**Exercise Set #2 (UC Santa Cruz, PHYS 150 / CSE 109)**
-
 ## Problem 1
 **Consider the 2-qubit state**
 $$|\psi\rangle = \frac{1}{\sqrt{2}} \left( |0\rangle_1 |0\rangle_2 - |1\rangle_1 |1\rangle_2 \right)$$
